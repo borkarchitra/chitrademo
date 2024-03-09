@@ -1,3 +1,4 @@
 # chitrademo
 this is my first repo
-Author Chitra Borkar
+<br>
+Author - Chitra Borkar
